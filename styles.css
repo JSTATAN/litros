@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    background-color: #04c3e18e;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 1em;
+  }
+  
+  button {
+    background-color: #00000088;
+    color: #fff;
+    font-size: 1em;
+    padding: 1em 2em;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #b14848;
+  }
+  
+  .container {
+    width: 600px;
+    margin: 0 auto;
+  }
+  
